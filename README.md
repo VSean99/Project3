@@ -3,7 +3,7 @@
 PORT = 5000\
 NODE_ENV = development\
 JWT_SECRET = secret_key\
-MONGO_URL = mongodb+srv://admin:admin@project3.uzojy.mongodb.net/project3db?retryWrites=true&w=majority\
+MONGO_URL = mongodb+srv://admin:admin@project3.ngv3q.mongodb.net/?retryWrites=true&w=majority\
 PAYPAL_CLIENT_ID =AXPCKKDg_N6XAPpZfh6_cwK8fGNiJ2s_8ISihexIRvH9YsX4lLKISeJbK1kwXszKDyBDC0XZuAJT0iKf
 
 # Chạy lệnh ở mỗi thư mục
@@ -20,3 +20,7 @@ Server: localhost:5000
 # Tài khoản paypal thanh toán
 admin.123@gmail.com\
 admin123
+
+# Tài khoản admin 
+admin@gmail.com\
+admin
