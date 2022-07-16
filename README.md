@@ -1,4 +1,7 @@
 # Project3
+# Cài đặt nodejs
+https://nodejs.org/en/download/\
+
 # Tạo file môi trường ".env" ở thư mục server sau đó paste nội dung bên dưới vào file
 PORT = 5000\
 NODE_ENV = development\
